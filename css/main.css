@@ -79,10 +79,15 @@ input{
     padding: 10px 150px;
     outline: none;
 }
-.box span{
+.bspan{
     padding: 10px 25px ;
     position: absolute;
     top: 20px;
     left: 20px;
     background-color: #E74040;
+}
+.ret{
+    position: absolute;
+    bottom: 53%;
+    right: 70px;
 }
